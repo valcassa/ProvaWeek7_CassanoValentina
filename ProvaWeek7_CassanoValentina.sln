@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProvaWeek7_CassanoValentina", "ProvaWeek7_CassanoValentina\ProvaWeek7_CassanoValentina.csproj", "{519AA77D-782F-4CA6-981F-02365B32A44A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorraCinese", "MorraCinese\MorraCinese.csproj", "{7E4A9151-F042-4C4C-A74B-AE26A9ABCD91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaWeek7_CassanoValentina.Core", "Week7_Core\ProvaWeek7_CassanoValentina.Core.csproj", "{FDE774C3-7FF6-456A-973B-95A6681728A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaWeek7_CassanoValentina.Master", "Week7_Master\ProvaWeek7_CassanoValentina.Master.csproj", "{BD98B9E9-B097-48C5-B016-1259B99C3896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaWeek7_CassanoValentina.RepositoryEF", "RepositoryEF\ProvaWeek7_CassanoValentina.RepositoryEF.csproj", "{256D73D1-24D5-4614-A61B-8299E0A35522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaWeek7_CassanoValentina.RepositoryMock", "Week7_RepositoryMock\ProvaWeek7_CassanoValentina.RepositoryMock.csproj", "{C6211600-4808-477F-8B83-A85DA1384A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519AA77D-782F-4CA6-981F-02365B32A44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519AA77D-782F-4CA6-981F-02365B32A44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519AA77D-782F-4CA6-981F-02365B32A44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519AA77D-782F-4CA6-981F-02365B32A44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4A9151-F042-4C4C-A74B-AE26A9ABCD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4A9151-F042-4C4C-A74B-AE26A9ABCD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4A9151-F042-4C4C-A74B-AE26A9ABCD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4A9151-F042-4C4C-A74B-AE26A9ABCD91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE774C3-7FF6-456A-973B-95A6681728A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE774C3-7FF6-456A-973B-95A6681728A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE774C3-7FF6-456A-973B-95A6681728A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE774C3-7FF6-456A-973B-95A6681728A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD98B9E9-B097-48C5-B016-1259B99C3896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD98B9E9-B097-48C5-B016-1259B99C3896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD98B9E9-B097-48C5-B016-1259B99C3896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD98B9E9-B097-48C5-B016-1259B99C3896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256D73D1-24D5-4614-A61B-8299E0A35522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256D73D1-24D5-4614-A61B-8299E0A35522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256D73D1-24D5-4614-A61B-8299E0A35522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256D73D1-24D5-4614-A61B-8299E0A35522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6211600-4808-477F-8B83-A85DA1384A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6211600-4808-477F-8B83-A85DA1384A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6211600-4808-477F-8B83-A85DA1384A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6211600-4808-477F-8B83-A85DA1384A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C30411F9-1328-4734-BAD2-22B9823E7768}
+	EndGlobalSection
+EndGlobal
